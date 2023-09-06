@@ -1,19 +1,5 @@
 - 👋 Hi, I’m @Droid5555
-- 👀 I’m interested in aboba
-- 🌱 I’m currently learning aboba
-- 💞️ I’m looking to collaborate on aboba
-- 📫 How to reach me: aboba
-
-
-
-
-
-
-
-
-
-
-
-
-
-i'm Russian btw, so sorry, if i can't understand you
+- 👀 I’m interested in math, speed-coding, Software-engineering
+- 🌱 I’m currently learning C++ in MIPT
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me: telegram https://t.me/DDDDRRRROOOOIIIIDDDD
