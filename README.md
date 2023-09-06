@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Droid5555
+- 👋 Hi, I’m David Aleksyan (Давид Алексьян)
 - 👀 I’m interested in math, speed-coding, Software-engineering
-- 🌱 I’m currently learning C++ in MIPT
+- 🌱 I’m currently learning C++, Linear Algebra, Calculus and Discrete mathematics in Moscow Institute of Physics and Technology
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: telegram https://t.me/DDDDRRRROOOOIIIIDDDD
