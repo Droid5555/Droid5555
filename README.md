@@ -1,5 +1,28 @@
-- 👋 Hi, I’m David Aleksian (Давид Алексьян)
-- 👀 I’m interested in math, speed-coding, Software-engineering
-- 🌱 I’m currently learning C++, Linear Algebra, Calculus and Discrete mathematics in Moscow Institute of Physics and Technology
+<h1>
+  Information
+</h1>
+
+- 👋 Hi, I’m David Aleksian (Давид Алексьян), student from Moscow
+- 👀 I’m interested in math, software-engineering, interships and work with open-source projects
+- 🌱 I’m currently learning C++, Linear Algebra, Calculus, Math Logic and Javascript in <b>Moscow Institute of Physics and Technology</b>
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: telegram https://t.me/DDDDRRRROOOOIIIIDDDD
+- 📫 How to reach me:
+<div id="badges">
+  <a href="https://t.me/DDDDRRRROOOOIIIIDDDD">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="david.aleksian@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&color=white" alt="Gmail Badge"/>
+  </a>
+</div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg5MHRqd2N2amlyYXh2bzhmaXduOTZ2aWJ2YnRlMWl6dHRwdDRiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uxxXyTRFgIJaOZJTb/giphy.gif" width="100"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg5MHRqd2N2amlyYXh2bzhmaXduOTZ2aWJ2YnRlMWl6dHRwdDRiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uxxXyTRFgIJaOZJTb/giphy.gif" width="100"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg5MHRqd2N2amlyYXh2bzhmaXduOTZ2aWJ2YnRlMWl6dHRwdDRiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uxxXyTRFgIJaOZJTb/giphy.gif" width="100"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg5MHRqd2N2amlyYXh2bzhmaXduOTZ2aWJ2YnRlMWl6dHRwdDRiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uxxXyTRFgIJaOZJTb/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg5MHRqd2N2amlyYXh2bzhmaXduOTZ2aWJ2YnRlMWl6dHRwdDRiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uxxXyTRFgIJaOZJTb/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg5MHRqd2N2amlyYXh2bzhmaXduOTZ2aWJ2YnRlMWl6dHRwdDRiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uxxXyTRFgIJaOZJTb/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg5MHRqd2N2amlyYXh2bzhmaXduOTZ2aWJ2YnRlMWl6dHRwdDRiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uxxXyTRFgIJaOZJTb/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg5MHRqd2N2amlyYXh2bzhmaXduOTZ2aWJ2YnRlMWl6dHRwdDRiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uxxXyTRFgIJaOZJTb/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg5MHRqd2N2amlyYXh2bzhmaXduOTZ2aWJ2YnRlMWl6dHRwdDRiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uxxXyTRFgIJaOZJTb/giphy.gif" width="100"/>
+</div>
