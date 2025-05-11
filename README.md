@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m David Aleksian (Давид Алексьян)
 - 👀 I’m interested in math, software-engineering, interships and work with open-source projects
-- 🌱 I’m currently learning Golang, Probability theory, Differential equation, Formal and regular languages in <b>Moscow Institute of Physics and Technology</b>
+- 🌱 I’m currently study at <b>Moscow Institute of Physics and Technology</b>
 - 💞️ I’m looking to collaborate on projects
 - 👉 Check out my gitlab:
 - 📫 How to reach me:
